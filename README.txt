@@ -1,4 +1,5 @@
-CityU Hackathon 2019 Group 6 
-App for finding seats
-All the source code are placed in here.
+CityU Hackathon 2019 team 12 zuckerbots 
+
+We created the seat-finding app 'cityspace'
+All the Team materials and source codes are placed in here.
 
